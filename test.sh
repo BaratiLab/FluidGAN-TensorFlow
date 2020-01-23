@@ -1,0 +1,11 @@
+python3 -u test.py\
+    --data_name "cavity60k" \
+    --input_path "datasets/sample/cavity60k/10000_test_f1.h5" \
+    --output_path "test" \
+    --maxmin_path "datasets/raw/cavity60k.csv" \
+    --checkpoint "train/cavity60k/save" \
+    --display_verbose 1 \
+    --batch_size 25 \
+    --progress_freq 10 \
+    --display_freq 20 \
+    --restore_step 8000
