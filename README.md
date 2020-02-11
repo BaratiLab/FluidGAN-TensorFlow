@@ -2,7 +2,7 @@
 
 ![img1](https://github.com/jcl2018/cGAN-transport-phenomena/blob/master/img/cGAN-2019-015.jpg) 
 
-FluidGAN-TensorFlow is a Tensorflow implementation of FluidGAN which is  a generic framework for predicting multi-physcis phenomena like convective transport and for both stationary and time-dependent setting. This framework is based on the conditional generative adversarial network (cGAN) [pix2pix-tensorflow](https://github.com/affinelayer/pix2pix-tensorflow). 
+FluidGAN-TensorFlow is a Tensorflow implementation of FluidGAN which is  a generic framework for predicting multi-physcis phenomena like convective transport and for both stationary and time-dependent settings. This framework is based on the conditional generative adversarial network (cGAN) [pix2pix-tensorflow](https://github.com/affinelayer/pix2pix-tensorflow). 
 
 Sample dataset is available once the paper is published.
 More information about CMU Mechanical and AI LAB (MAIL) can be found [here](https://sites.google.com/view/barati).
