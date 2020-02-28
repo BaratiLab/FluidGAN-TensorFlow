@@ -1,6 +1,6 @@
 # FluidGAN-TensorFlow
 
-![img1](https://github.com/jcl2018/cGAN-transport-phenomena/blob/master/img/cGAN-2019-015.jpg) 
+![img1](https://github.com/jcl2018/FluidGAN-TensorFlow/blob/master/img/cGAN-2019-015.jpg) 
 
 FluidGAN-TensorFlow is a Tensorflow implementation of FluidGAN which is  a generic framework for predicting multi-physics phenomena like convective transport and for both stationary and time-dependent settings. This framework is based on the conditional generative adversarial network (cGAN) [pix2pix-tensorflow](https://github.com/affinelayer/pix2pix-tensorflow). 
 
